@@ -1,0 +1,15 @@
+{
+  "user": {
+    "name": "John Doe",
+    "age": 30,
+    "email": "johndoe@example.com",
+    "is_active": true,
+    "address": {
+      "street": "123 Main St",
+      "city": "New York",
+      "state": "NY",
+      "zip": "10001"
+    },
+    "hobbies": ["reading", "hiking", "swimming"]
+  }
+}
